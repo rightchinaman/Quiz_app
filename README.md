@@ -6,4 +6,4 @@
 2. pip install django
 3. pip install djangorestframework
 4. pip insatll pygments
-5. ADD **/question** after your local host link in order to view the project. For. e.g - **http://127.0.0.1:8000/question/**
+5. ADD **/question** after your local host link in order to view the project. For. e.g - **http://127.0.0.1:1750/question/**
